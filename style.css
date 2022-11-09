@@ -61,12 +61,19 @@ body{
 
 
 .main-nav > li:hover {
-	font-size: 12px;
+	font-size: 14px;
 	padding:  10px 5px;
 	border-radius:  4px;
 	background-color: #333435;
 }
 
+.main-nav > li:hover {
+	font-size: 14px;
+	padding:  10px 5px;
+	border-radius:  4px;
+	background-color: #f3f0ed
+
+}
 
 }
 

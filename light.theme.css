@@ -55,11 +55,11 @@ body{
 
 @media only screen and (max-width:  600px){
 	.main-nav > li{
-	font-size: 12px;
+	font-size: 14px;
 	padding: 10px 5px;
 }
 .main-nav > li:hover {
-	font-size: 12px;
+	font-size: 14px;
 	padding:  10px 5px;
 	border-radius:  4px;
 	background-color: #f3f0ed

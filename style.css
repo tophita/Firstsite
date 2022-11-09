@@ -55,7 +55,7 @@ body{
 
 @media only screen and (max-width:  600px){
 	.main-nav{
-	font-size: 0.6em;
+	font-size: 0.7em;
 	padding: 0;
 }
 }
@@ -85,6 +85,7 @@ a{
 	align-items: center;
 	height: 50vh;
 	background-color: #0e111b;
+	overflow: hidden;
 }
 
 .cover {

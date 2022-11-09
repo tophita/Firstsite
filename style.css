@@ -53,7 +53,21 @@ body{
 }
 
 
-@media (max-width: 600px) {
+@media only and (max-width: 600px) {
+
+.sticky{
+	position: fixed;
+	top: 0;
+	width:  100%;
+}
+
+.main-nav {
+	display:  flex;
+	list-style: none;
+	font-size: 16px;
+	margin: 0;
+}
+
 	.main-nav > li{
 	font-size: 12px;
 	padding:  10px 5px;

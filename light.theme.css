@@ -1,6 +1,6 @@
 body{
 	margin:  auto 0;
-	font-family: arial;;
+	font-family: arial;
 }
 
 
@@ -8,8 +8,6 @@ body{
 .zone {
 	color:  #a5431c;
 	font-size: 16px;
-/*	border-radius:  4px;
-	border: 0.5px solid #9c9fa4;*/
 	transition: all 0.2s linear;
 }
 
